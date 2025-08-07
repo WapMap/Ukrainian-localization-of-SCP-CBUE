@@ -225,7 +225,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone4.ogg": [
 		{
-			"text": "Ну, не гаймо більше часу. Вони чекають на тебе внизу, в камері.",
+			"text": "Ну, не гай час. Вони чекають на тебе внизу, в камері.",
 			"color": "guard"
 		}
 	],
@@ -272,7 +272,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Conversation0b.ogg": [
 		{
-			"text": "Е-е... т-ти розмовляєш зі мною?",
+			"text": "Е-ем... т-ти розмовляєш зі мною?",
 			"delay": 3.2,
 			"color": "guard"
 		},
@@ -298,12 +298,12 @@
 			"color": "guard"
 		},
 		{
-			"text": "Е, ти жартуєш?",
+			"text": "Ем, ти жартуєш?",
 			"delay": 12.5,
 			"color": "guard"
 		},
 		{
-			"text": "Уся твоя робота обертається навколо жахів та наукової фантастики! Тільки, знаєш, це не фантастика.",
+			"text": "Уся твоя робота обертається навколо жахів та наукової фантастики! Тільки, знаєш, це не наукова фантастика.",
 			"delay": 15.93,
 			"color": "guard"
 		},
@@ -1057,53 +1057,53 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement3.ogg": [
 		{
-			"text": "Remember to report all suspicious activity to your supervisors. Not even you are exempt from scrutiny. Stay paranoid. Stay vigilant.",
+			"text": "Не забувайте повідомляти про всю підозрілу активність своєму керівництву. Навіть ви, не є винятком з-під пильної уваги. Будьте параноїком. Будьте пильними.",
 			"delay": 1.95,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement4.ogg": [
 		{
-			"text": "Feeling out of shape? Drop by the faculty gymnasium and feel free to participate in a game of community Badminton on Sundays!",
+			"text": "Почуваєтеся не у формі? Завітайте до спортивного залу факультету та сміливо беріть участь у грі в бадмінтон щонеділі!",
 			"delay": 2.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement5.ogg": [
 		{
-			"text": "Feeling tired and overworked? Freshly brewed coffee is served at the cafeteria at all hours.",
+			"text": "Відчуваєте втому та перевтому? Свіжозварену каву подають у кафетерії цілодобово.",
 			"delay": 2.0,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement6.ogg": [
 		{
-			"text": "Come down and join our annual movie night this Saturday! This years film, 'Area 51: Panic and Terror: Two Miles Under'",
+			"text": "Завітайте до нас на щорічний кіновечір цієї суботи! Цьогорічний фільм — «Зона 51: Паніка та жах: Дві милі під землею».",
 			"delay": 1.95,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted0.ogg": [
 		{
-			"text": "Attention. Security Chief Franklin, please report to containment chamber 173 immediately.",
+			"text": "Увага. Начальнику служби безпеки Франкліну, будь ласка, негайно з'явіться до камери утримання 173.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted1.ogg": [
 		{
-			"text": ">Doctor L, please report to Heavy Containment checkpoint C.",
+			"text": ">Докторе Л, будь ласка, зверніться до точки C важкого утримання.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted2.ogg": [
 		{
-			"text": "Attention. Doctor Maynard, report to administrations office immediately.",
+			"text": "Увага. Докторе Мейнард, негайно з'явитися до адміністративного офісу.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted3.ogg": [
 		{
-			"text": "Maintenance Crew Alpha, report to Light Containment elevator 6A for safety inspection.",
+			"text": "Бригада технічного обслуговування Альфа, направтеся до ліфта 6А легкої зони утримання для перевірки безпеки.",
 			"color": "announcement"
 		}
 	],
