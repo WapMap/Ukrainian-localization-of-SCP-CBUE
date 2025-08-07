@@ -98,14 +98,14 @@
 			"length": 4.0
 		},
 		{
-			"text": "Copy that.",
+			"text": "Виконується.",
 			"delay": 8.9,
 			"length": 0.91
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCell.ogg": [
 		{
-			"text": "Гей, вних для тебе є робота. Зроби мені послугу та виходь з камери.",
+			"text": "Гей, вних для тебе є робота. Зроби мені послугу, виходь з камери.",
 			"delay": 1.37,
 			"color": "guard",
 			"length": 4.14
@@ -113,7 +113,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse0.ogg": [
 		{
-			"text": "Ти що, тупий чи що? Я сказав, виходь з камери. Якщо ти не вийдеш з камери, я надеру тобі дупу.",
+			"text": "Ти що, тупий чи що? Я сказав, виходь з камери. Якщо ти не вийдеш, я надеру тобі дупу.",
 			"color": "guard",
 			"length": 6.05
 		}
@@ -159,7 +159,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRefuse0.ogg": [
 		{
-			"text": "Поспішай! Вони чекають на тебе!",
+			"text": "Поспішай! На тебе чекають!",
 			"color": "guard"
 		}
 	],
@@ -529,7 +529,7 @@
 	/* CLASS-D */
 	"SFX\\Room\\Intro\\ClassD\\DontLikeThis.ogg": [
 		{
-			"text": "Мені це не подобається. Мені справді не подобається.",
+			"text": "Мені це не подобається. Мені це дуже не подобається.",
 			"color": "classd"
 		}
 	],
@@ -542,81 +542,81 @@
 	/* SCIENTIST */
 	"SFX\\Room\\Intro\\Scientist\\Conversation.ogg": [
 		{
-			"text": "For some reason he passed by 079's chamber, and now the doors aren't working."
+			"text": "З якоїсь причини він пройшов повз камеру 079-го, і тепер двері не працюють."
 		},
 		{
-			"text": "Well, at least they weren't working when I last passed by.",
+			"text": "Ну, принаймні, вони не працювали, коли я востаннє проходив повз.",
 			"delay": 5.0
 		},
 		{
-			"text": "Skinner?",
+			"text": "Скіннер?",
 			"delay": 12.2
 		},
 		{
-			"text": "Hmm, I don't recall knowing him.",
+			"text": "Хм, я не пам'ятаю його.",
 			"delay": 15.4
 		},
 		{
-			"text": "Was he ever stationed at this sector?",
+			"text": "Він колись був розміщений у цьому секторі?",
 			"delay": 17.65
 		},
 		{
-			"text": "Yeah, he picked up a security agent and a junior researcher on the way.",
+			"text": "Так, він взяв агента безпеки та молодшого наукового співробітника дорогою.",
 			"delay": 25.3
 		},
 		{
-			"text": "Kid was taking papers to his supervisor, shit sucks.",
+			"text": "Хлопець ніс папери своєму керівнику, це жахливо.",
 			"delay": 29.5
 		},
 		{
-			"text": "It shook up Dr. L. pretty badly.",
+			"text": "Це досить сильно сколихнуло доктора Л.",
 			"delay": 36.2
 		},
 		{
-			"text": "He hasn't left his office, says he's been hearing things.",
+			"text": "Він не виходить з кабінету, кажуть, що він чує різні речі.",
 			"delay": 38.2
 		}
 	],
 	/* IA SYSTEM */
 	"SFX\\Room\\Intro\\IA\\1\\Attention0.ogg": [
 		{
-			"text": "Attention.",
+			"text": "Увага.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\1\\Attention1.ogg": [
 		{
-			"text": "Attention, please.",
+			"text": "Будь ласка, увага.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew0.ogg": [
 		{
-			"text": "Maintenance Crew Echo",
+			"text": "Бригади технічного обслуговування Ехо",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew1.ogg": [
 		{
-			"text": "Electrician Crew Lima",
+			"text": "Бригада електриків Ліма",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew2.ogg": [
 		{
-			"text": "Inspection Team Sierra",
+			"text": "Інспекційна команда Сьєрра",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew3.ogg": [
 		{
-			"text": "Technician Team A3",
+			"text": "Технічна команда A3",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew4.ogg": [
 		{
-			"text": "Janitorial Crew 4E",
+			"text": "Бригада прибиральників 4E",
 			"color": "announcement"
 		}
 	],
@@ -628,355 +628,355 @@
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist0.ogg": [
 		{
-			"text": "Head Researcher Furnace",
+			"text": "Головний дослідник Фурнац",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist1.ogg": [
 		{
-			"text": "Assistant Researcher Conway",
+			"text": "Помічник дослідника Конвей",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist2.ogg": [
 		{
-			"text": "Junior Researcher Rosing",
+			"text": "Молодший науковий співробітник Розінг",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist3.ogg": [
 		{
-			"text": "Senior Researcher Palmer",
+			"text": "Старший науковий співробітник Палмер",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist4.ogg": [
 		{
-			"text": "Doctor Burk",
+			"text": "Доктор Берк",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist5.ogg": [
 		{
-			"text": "Doctor Caldera",
+			"text": "Доктор Кальдера",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist6.ogg": [
 		{
-			"text": "Doctor Harp",
+			"text": "Доктор Гарп",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist7.ogg": [
 		{
-			"text": "Doctor Gears",
+			"text": "Доктор Ґірс",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist8.ogg": [
 		{
-			"text": "Doctor Clef",
+			"text": "Доктор Клеф",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist9.ogg": [
 		{
-			"text": "Doctor Kondraki",
+			"text": "Доктор Кондракі",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist10.ogg": [
 		{
-			"text": "Doctor Valdeson",
+			"text": "Доктор Вальдесон",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist11.ogg": [
 		{
-			"text": "Assistant Researcher Cooley",
+			"text": "Помічник дослідника Кулі",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist12.ogg": [
 		{
-			"text": "Chief Electrician Wagner",
+			"text": "Головний електрик Вагнер",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist13.ogg": [
 		{
-			"text": "Security Officer Ingreso",
+			"text": "Офіцер безпеки Інгресо",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist14.ogg": [
 		{
-			"text": "Communications Specialist Furnace",
+			"text": "Спеціаліст з комунікацій Фурнац",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist15.ogg": [
 		{
-			"text": "Transportation Dispatcher Conway",
+			"text": "Диспетчер транспорту Конвей",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist16.ogg": [
 		{
-			"text": "Safety Director Paxton",
+			"text": "Директор з безпеки Пакстон",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Scientist17.ogg": [
 		{
-			"text": "Research Director Reed",
+			"text": "Директор з досліджень Рід",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security0.ogg": [
 		{
-			"text": "Security Team 12-B",
+			"text": "Команда безпеки 12-B",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security1.ogg": [
 		{
-			"text": "Security Team 7-A",
+			"text": "Команда безпеки 7-А",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security2.ogg": [
 		{
-			"text": "Agent Ulgrin",
+			"text": "Агент Ульгрін",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security3.ogg": [
 		{
-			"text": "Security Team 3-F",
+			"text": "Команда безпеки 3-F",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security4.ogg": [
 		{
-			"text": "Security Team 11-C",
+			"text": "Команда безпеки 11-C",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Security5.ogg": [
 		{
-			"text": "Sergeant Valdeson",
+			"text": "Сержант Вальдесон",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\3\\CallOnLine.ogg": [
 		{
-			"text": "Call on-line.",
+			"text": "Виклик.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\3\\Report0.ogg": [
 		{
-			"text": "Report to.",
+			"text": "Доповідайте.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\3\\Report1.ogg": [
 		{
-			"text": "Please report to.",
+			"text": "Будь ласка, доповідайте.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew0.ogg": [
 		{
-			"text": "Decontamination Gate 14.",
+			"text": "Деконтамінаційні ворота 14.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew1.ogg": [
 		{
-			"text": "Maintenance Tunnel Checkpoint D.",
+			"text": "Точка D тунелю технічного обслуговування.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew2.ogg": [
 		{
-			"text": "Service Tunnel A.",
+			"text": "Технічний тунель А.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew3.ogg": [
 		{
-			"text": "Storage Complex F.",
+			"text": "Складський комплекс F.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew4.ogg": [
 		{
-			"text": "Tesla Gate G-6.",
+			"text": "Ворота тесли G-6.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew5.ogg": [
 		{
-			"text": "Lavatory C-30.",
+			"text": "Туалет C-30.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew6.ogg": [
 		{
-			"text": "Decontamination Checkpoint H-13.",
+			"text": "Деконтамінаційна точка H-13.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist0.ogg": [
 		{
-			"text": "Office Complex E.",
+			"text": "Офісний комплекс E.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist1.ogg": [
 		{
-			"text": "Office Complex Floor 3.",
+			"text": "Офісний комплекс, 3 поверх.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist2.ogg": [
 		{
-			"text": "Personnel Dormatories Floor 3.",
+			"text": "Гуртожитки персоналу, 3-й поверх.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist3.ogg": [
 		{
-			"text": "Testing Lab 5-B.",
+			"text": "Випробувальна лабораторія 5-Б.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist4.ogg": [
 		{
-			"text": "Office Complex B-12.",
+			"text": "Офісний комплекс Б-12.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist5.ogg": [
 		{
-			"text": "Gate C Administrations Complex.",
+			"text": "Ворота С, адміністративний комплекс.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist6.ogg": [
 		{
-			"text": "Storage Facilities G-5.",
+			"text": "Складські приміщення G-5.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist7.ogg": [
 		{
-			"text": "Head Office A.",
+			"text": "Головний офіс А.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security0.ogg": [
 		{
-			"text": "Cell-Block Delta.",
+			"text": "Клітинний блок Дельта.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security1.ogg": [
 		{
-			"text": "Firing Range Foxtrot.",
+			"text": "Стрільбище Фокстрот.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security2.ogg": [
 		{
-			"text": "Gate A.",
+			"text": "Ворота А.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security3.ogg": [
 		{
-			"text": "Heavy Containment Checkpoint Alpha.",
+			"text": "Точка важкого утримання Альфа",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security4.ogg": [
 		{
-			"text": "Entrance Checkpoint Bravo.",
+			"text": "Вхідна точка Браво",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Security5.ogg": [
 		{
-			"text": "Light Containment Checkpoint Kilo B.",
+			"text": "Точка легкого утримання Кіло Б",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew0.ogg": [
 		{
-			"text": "For maintenance.",
+			"text": "Для технічного обслуговування.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew1.ogg": [
 		{
-			"text": "For engineering service.",
+			"text": "Для інженерного обслуговування.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew2.ogg": [
 		{
-			"text": "For janitorial service.",
+			"text": "Для прибирального обслуговування.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew3.ogg": [
 		{
-			"text": "For clean-up.",
+			"text": "Для прибирання.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew4.ogg": [
 		{
-			"text": "For scheduled inspection.",
+			"text": "Для планової перевірки.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew5.ogg": [
 		{
-			"text": "For scheduled safety inspection.",
+			"text": "Для планової перевірки безпеки.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Crew6.ogg": [
 		{
-			"text": "For immediate decontaimination clean-up.",
+			"text": "Для негайної деконтамінації та очищення.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Scientist0.ogg": [
 		{
-			"text": "For scheduled security inspection.",
+			"text": "Для планової перевірки безпеки інспекцією.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Security0.ogg": [
 		{
-			"text": "For briefing.",
+			"text": "Для брифінгу.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Security1.ogg": [
 		{
-			"text": "For immediate service.",
+			"text": "Для негайного обслуговування.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\5\\Security2.ogg": [
 		{
-			"text": "For personnel control.",
+			"text": "Для контролю персоналу.",
 			"color": "announcement"
 		}
 	],
@@ -1036,21 +1036,21 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement0.ogg": [
 		{
-			"text": "Don't forget, today is pizza day. So head on down to the cafeteria to grab yourself a hot slice.",
+			"text": "Не забудьте, сьогодні день піци. Тож заходьте до кафетерію, щоб взяти гарячий шматочок.",
 			"delay": 1.9,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement1.ogg": [
 		{
-			"text": "Remember, security is the first step towards a safe work environment. Stay secure, stay vigilant.",
+			"text": "Пам’ятайте, що безпека – це перший крок до безпечного робочого середовища. Будьте обережні, будьте пильні.",
 			"delay": 1.85,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Announcement2.ogg": [
 		{
-			"text": "A reminder to all personnel, motivational seminars are held at the faculty auditorium from hours 17 to 18 on Thursdays. Come on down and get motivated!",
+			"text": "Нагадуємо всім співробітникам: мотиваційні семінари проводяться в аудиторії факультету з 17 до 18 години по четвергах. Приходьте та отримайте мотивацію!",
 			"delay": 2.0,
 			"color": "announcement"
 		}
