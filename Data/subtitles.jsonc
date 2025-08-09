@@ -1904,259 +1904,259 @@
 	],
 	"SFX\\Radio\\MTFRandom3.ogg": [
 		{
-			"text": "I wonder what will happen after this, man.",
+			"text": "Цікаво, що буде після цього, чувак.",
 			"delay": 0.18,
 			"color": "mtf"
 		},
 		{
-			"text": "I dunno. Let's just get this over with.",
+			"text": "Не знаю. Давай просто покінчимо з цим.",
 			"delay": 3.73,
 			"color": "mtf"
 		},
 		{
-			"text": "Okay.",
+			"text": "Гаразд.",
 			"delay": 7.65,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom4.ogg": [
 		{
-			"text": "This place is so fucking crazy!",
+			"text": "Це місце божевільне!",
 			"delay": 0.11,
 			"color": "mtf"
 		},
 		{
-			"text": "No shit, Sherlock.",
+			"text": "Не дурій, Шерлоку.",
 			"delay": 3.63,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom5.ogg": [
 		{
-			"text": "Holy shit! He's dead! What the fuck? How did he... anyone wanna try that?",
+			"text": "Присвяте лайно! Він мертвий! Що за хуйня? Як він... хтось хоче це спробувати?",
 			"delay": 0.15,
 			"color": "mtf"
 		},
 		{
-			"text": "No way, you moron!",
+			"text": "Ні в якому разі, ідіоте!",
 			"delay": 9.55,
 			"color": "mtf"
 		},
 		{
-			"text": "The jackass didn't look ahead. Why the heck didn't he notice it?",
+			"text": "Цей придурок не дивився вперед. Чому, чорт забирай, він цього не помітив?",
 			"delay": 12.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Radio\\MTFRandom6.ogg": [
 		{
-			"text": "You guys wanna put some stuff in that clockwork thing to see what comes out?",
+			"text": "Хлопці, хочете покласти щось у цю механічну штуку, щоб подивитися, що звідти вийде?",
 			"delay": 0.45,
 			"color": "mtf"
 		},
 		{
-			"text": "You must be fucking crazy, that thing is dangerous!",
+			"text": "Ти бляха збожеволів, ця штука небезпечна!",
 			"delay": 5.23,
 			"color": "mtf"
 		},
 		{
-			"text": "Well, I'm so curious. What could happen?",
+			"text": "Ну, мені так цікаво. Що може статися?",
 			"delay": 10.3,
 			"color": "mtf"
 		},
 		{
-			"text": "Shut the hell up! Let's get this over with.",
+			"text": "Замовкніть! Давайте покінчимо з цим.",
 			"delay": 14.85,
 			"color": "mtf"
 		},
 		{
-			"text": "Okay.",
+			"text": "Гаразд.",
 			"delay": 19.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching0.ogg": [
 		{
-			"text": "Come out, you bastard!",
+			"text": "Виходь, покидьку!",
 			"delay": 0.09,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching1.ogg": [
 		{
-			"text": "Searching for Class-D.",
+			"text": "Шукаю клас D.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching2.ogg": [
 		{
-			"text": "Come on out. You're gonna die anyway.",
+			"text": "Виходь. Ти все одно вмреш.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching3.ogg": [
 		{
-			"text": "Look for him!",
+			"text": "Шукайте його!",
 			"delay": 0.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching4.ogg": [
 		{
-			"text": "Come out, you bastard!",
+			"text": "Виходь, покидьку!",
 			"delay": 0.075,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Searching5.ogg": [
 		{
-			"text": "Javla helvete, come out!",
+			"text": "Йоб твою, виходь!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop0.ogg": [
 		{
-			"text": "Stop right there!",
+			"text": "Негайно зупинися!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop1.ogg": [
 		{
-			"text": "Class-D spotted.",
+			"text": "Помічено клас D.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop2.ogg": [
 		{
-			"text": "You! Stop!",
+			"text": "Ти! Зупинись!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop3.ogg": [
 		{
-			"text": "Stop right there!",
+			"text": "Негайно зупинися!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop4.ogg": [
 		{
-			"text": "Hey, hey! Halt!",
+			"text": "Гей, гей! Зупинись!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\Stop5.ogg": [
 		{
-			"text": "You, stop!",
+			"text": "Ти, зупинись!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetLost0.ogg": [
 		{
-			"text": "Target lost. Reverting back to the original objective.",
+			"text": "Ціль втрачено. Повернення до початкового завдання.",
 			"delay": 0.85,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetLost1.ogg": [
 		{
-			"text": "Class-D has escaped us. Returning to previous task.",
+			"text": "Клас D вислизнув з поля зору. Повертаємося до попереднього завдання.",
 			"delay": 0.8,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetLost2.ogg": [
 		{
-			"text": "Look, he ran away.",
+			"text": "Дивись, він утік.",
 			"color": "mtf"
 		},
 		{
-			"text": "Whatever, I guess he won't matter too much.",
+			"text": "Начхати, гадаю, він не має великого значення.",
 			"delay": 3.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated0.ogg": [
 		{
-			"text": "Target terminated.",
+			"text": "Ціль ліквідовано.",
 			"delay": 1.08,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated1.ogg": [
 		{
-			"text": "Glad that's over with.",
+			"text": "Радий, що з цим покінчено.",
 			"delay": 0.85,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated2.ogg": [
 		{
-			"text": "Class-D has been terminated.",
+			"text": "Клас D було ліквідовано.",
 			"delay": 1.0,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TargetTerminated3.ogg": [
 		{
-			"text": "Kill confirmed.",
+			"text": "Вбивство підтверджено.",
 			"delay": 1.08,
 			"color": "mtf"
 		},
 		{
-			"text": "C'mon, let's move out.",
+			"text": "Нумо, вирушаймо.",
 			"delay": 3.48,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\TeslaRequest.ogg": [
 		{
-			"text": "Nine-Tailed Fox to control, requesting the disabling of the tesla gate nearest to our position.",
+			"text": "Дев'ятихвоста лисиця до диспетчерської, запит на відключення найближчих до нашої позиції воріт тесла.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs0.ogg": [
 		{
-			"text": "Class-D found!",
+			"text": "Знайдено клас D!",
 			"delay": 0.15,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs1.ogg": [
 		{
-			"text": "There he is! Start shooting!",
+			"text": "Ось він! Стріляйте!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs2.ogg": [
 		{
-			"text": "There you are.",
+			"text": "Ось ти де.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs3.ogg": [
 		{
-			"text": "Look, he's over there!",
+			"text": "Дивіться, він он там!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs4.ogg": [
 		{
-			"text": "A-ha! Found the Class-D!",
+			"text": "А-га! Знайшов клас D!",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\ThereHeIs5.ogg": [
 		{
-			"text": "Oh hey, it's a Class-D!",
+			"text": "О, це ж клас D!",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 		"SFX\\Character\\MTF\\OMFG.ogg": [
 		{
-			"text": "OH MY FUCKING GOD!",
+			"text": "О МІЙ ЙОБАНИЙ БОЖЕ!",
 			"delay": 0.09,
 			"color": "mtf"
 		}
