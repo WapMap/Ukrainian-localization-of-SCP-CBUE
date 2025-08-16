@@ -92,7 +92,7 @@
 	/* AGENT ULGRIN */
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\BeforeDoorOpen.ogg": [
 		{
-			"text": "Диспетчерській, це агент Ульгрін. Мені потрібен запит на відкриття камери 3-11.",
+			"text": "Диспетчерській, це агент Ульгрін. Запит на відкриття камери 3-11.",
 			"delay": 3.7,
 			"color": "guard",
 			"length": 4.0
@@ -120,7 +120,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse1.ogg": [
 		{
-			"text": "Слухай, друже, у мене немає цілого дня. Я намагаюся бути ввічливим. Якщо ти не вийдеш з камери, я тобі в'їбу.",
+			"text": "Слухай, друже, в мене немає цілого дня. Я намагаюся бути ввічливим. Якщо ти не вийдеш з камери, я тобі в'їбу.",
 			"color": "guard",
 			"length": 5.6
 		}
@@ -153,7 +153,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortRun.ogg": [
 		{
-			"text": "Гей, йолопе! Ти йдеш не в тому напрямку! Іди сюди чорт забирай, негайно.",
+			"text": "Гей, йолопе! Ти йдеш не в тому напрямку! Йди сюди чорт забирай, негайно.",
 			"color": "guard"
 		}
 	],
@@ -207,13 +207,13 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone1.ogg": [
 		{
-			"text": "Ну, ми прийшли. Я все ще розчарований, що не зміг тебе вдарити, але... начхати.",
+			"text": "Ну, ми прийшли. Я все ще розчарований, що не зміг тебе вдарити, але... байдуже.",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\EscortDone2.ogg": [
 		{
-			"text": "Ну, ми прийшли. Я все ще розчарований, що не зміг вдарити тобі по обличчю, але... начхати.",
+			"text": "Ну, ми прийшли. Я все ще розчарований, що не зміг вдарити тобі по обличчю, але... байдуже.",
 			"color": "guard"
 		}
 	],
@@ -358,7 +358,7 @@
 			"color": "guard"
 		},
 		{
-			"text": "Емм... гаразд?",
+			"text": "Ем-м... гаразд?",
 			"delay": 22.93,
 			"color": "guard"
 		}
@@ -465,13 +465,13 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\WTF0.ogg": [
 		{
-			"text": "Що нахуй відбувається?",
+			"text": "Що бляха відбувається?",
 			"color": "guard"
 		}
 	],
 	"SFX\\Room\\Intro\\Guard\\Balcony\\WTF1.ogg": [
 		{
-			"text": "Що нахуй відбувається?!",
+			"text": "Що бляха відбувається?!",
 			"color": "guard"
 		}
 	],
@@ -509,7 +509,7 @@
 	],
 	"SFX\\Room\\Intro\\Scientist\\Franklin\\Refuse2.ogg": [
 		{
-			"text": "Суб'єкт D-9341 призначений для ліквідації. Стріляйте за можливістю!",
+			"text": "Суб'єкт D-9341 призначений для ліквідації. Стріляти за можливістю.",
 			"color": "announcement"
 		}
 	],
@@ -592,7 +592,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\2\\Crew0.ogg": [
 		{
-			"text": "Бригади технічного обслуговування Ехо",
+			"text": "Бригада технічного обслуговування Ехо",
 			"color": "announcement"
 		}
 	],
@@ -814,7 +814,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Crew4.ogg": [
 		{
-			"text": "Ворота тесли G-6.",
+			"text": "Арка тесли G-6.",
 			"color": "announcement"
 		}
 	],
@@ -838,7 +838,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\4\\Scientist1.ogg": [
 		{
-			"text": "Офісний комплекс, 3 поверх.",
+			"text": "Офісний комплекс, 3-й поверх.",
 			"color": "announcement"
 		}
 	],
@@ -1091,13 +1091,13 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted1.ogg": [
 		{
-			"text": ">Докторе Л, будь ласка, зверніться до точки C важкого утримання.",
+			"text": ">Докторе Л, будь ласка, з'явіться до точки C важкого утримання.",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted2.ogg": [
 		{
-			"text": "Увага. Докторе Мейнард, негайно з'явитися до адміністративного офісу.",
+			"text": "Увага. Докторе Мейнард, негайно з'явіться до адміністративного офісу.",
 			"color": "announcement"
 		}
 	],
@@ -1109,7 +1109,7 @@
 	],
 	"SFX\\Room\\Intro\\IA\\Scripted\\Scripted4.ogg": [
 		{
-			"text": "Увага. Директор об'єкта Роузвуд, будь ласка, зверніться до адміністративного комплексу.",
+			"text": "Увага. Директор об'єкта Роузвуд, будь ласка, з'явіться до адміністративного комплексу.",
 			"color": "announcement"
 		}
 	],
@@ -1132,7 +1132,7 @@
 	],
 	"SFX\\Alarm\\Alarm1_1.ogg": [
 		{
-			"text": "В цій зоні спостерігаються численні порушення утримання рівнів Кетер та Евклід. Розпочато повне блокування зони.",
+			"text": "В зоні спостерігаються численні порушення утримання рівнів Кетер та Евклід. Розпочато повне блокування зони.",
 			"delay": 0.6,
 			"color": "announcement"
 		}
@@ -1146,7 +1146,7 @@
 	],
 	"SFX\\Character\\Scientist\\EscapeFromClosets.ogg": [
 		{
-			"text": "Ви чули це?"
+			"text": "Ти чув це?"
 		},
 		{
 			"text": "Сподіваюся, це не було-",
@@ -1343,7 +1343,7 @@
 			"color": "guard"
 		},
 		{
-			"text": "Ух...",
+			"text": "Ох...",
 			"delay": 4.2,
 			"color": "guard"
 		},
@@ -1383,7 +1383,7 @@
 			"color": "guard"
 		},
 		{
-			"text": "Будь ласка, допоможіть мені...",
+			"text": "Будь ласка, допоможи мені...",
 			"delay": 23.1,
 			"color": "guard"
 		}
@@ -1808,21 +1808,21 @@
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled0.ogg": [
 		{
-			"text": "Диспетчерська до Дев'ятихвостої лисиці, ворота тесла вимкнено.",
+			"text": "Диспетчерська до Дев'ятихвостої лисиці, арку тесла вимкнено.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled1.ogg": [
 		{
-			"text": "Диспетчерська до Дев'ятихвостої лисиці, ворота тесла вимкнено. Можете проходити.",
+			"text": "Диспетчерська до Дев'ятихвостої лисиці, арку тесла вимкнено. Можете проходити.",
 			"delay": 1.25,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Character\\MTF\\AnnouncTeslaDisabled2.ogg": [
 		{
-			"text": "Диспетчерська до Дев'ятихвостої лисиці, ворота тесла у вашому секторі зараз не працюють. Продовжуйте безпечно.",
+			"text": "Диспетчерська до Дев'ятихвостої лисиці, арки тесла у вашому секторі зараз не працюють. Продовжуйте безпечно.",
 			"delay": 1.3,
 			"color": "announcement"
 		}
@@ -2066,11 +2066,11 @@
 	],
 	"SFX\\Character\\MTF\\TargetLost2.ogg": [
 		{
-			"text": "Дивись, він утік.",
+			"text": "Дивись, він втік.",
 			"color": "mtf"
 		},
 		{
-			"text": "Начхати, гадаю, він не має великого значення.",
+			"text": "Байдуже, гадаю, він не має великого значення.",
 			"delay": 3.5,
 			"color": "mtf"
 		}
@@ -2110,7 +2110,7 @@
 	],
 	"SFX\\Character\\MTF\\TeslaRequest.ogg": [
 		{
-			"text": "Дев'ятихвоста лисиця до диспетчерської, запит на відключення найближчих до нашої позиції воріт тесла.",
+			"text": "Дев'ятихвоста лисиця до диспетчерської, запит на відключення найближчих до нашої позиції арок тесла.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
@@ -2163,184 +2163,184 @@
 	],
 	"SFX\\Character\\MTF\\049_2\\Spotted.ogg": [
 		{
-			"text": "Nine-Tailed Fox to control, an active SCP-049-2 instance detected.",
+			"text": "Дев'ятихвоста лисиця до диспетчерської, виявлено активний екземпляр SCP-049-2.",
 			"delay": 0.2,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049_2\\TargetTerminated.ogg": [
 		{
-			"text": "SCP-049-2 terminated.",
+			"text": "SCP-049-2 ліквідовано.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted0.ogg": [
 		{
-			"text": "Watch your back, SCP-049 has just been spotted!",
+			"text": "Бережіть спину, помічено SCP-049!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted1.ogg": [
 		{
-			"text": "SCP-049 is in the area! Keep a look out.",
+			"text": "SCP-049 поблизу! Слідкуйте.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted2.ogg": [
 		{
-			"text": "SCP-049 is right on top of us! Watch your back.",
+			"text": "SCP-049 прямо над нами! Бережіть спину.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted3.ogg": [
 		{
-			"text": "Plague Doctor has just been spotted! Everybody just stay calm.",
+			"text": "Помічено Чумного доктора! Всі, просто зберігайте спокій.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\049\\Spotted4.ogg": [
 		{
-			"text": "Plague Doctor has just been spotted!",
+			"text": "Помічено Чумного доктора!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\096\\Spotted0.ogg": [
 		{
-			"text": "SCP-096 has been spotted. Starting SCRAMBLE gear.",
+			"text": "Помічено SCP-096. Увімкнути спорядження МАСКУВАЧА.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\096\\Spotted1.ogg": [
 		{
-			"text": "I've spotted SCP-096, over.",
+			"text": "Я помітив SCP-096, кінець.",
 			"delay": 0.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\AlreadyCaptured.ogg": [
 		{
-			"text": "Someone seems to have already captured SCP-106. Proceeding to the secondary objectives.",
+			"text": "Здається, хтось вже захопив SCP-106. Переходимо до виконання вторинних завдань.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\FoundChamber.ogg": [
 		{
-			"text": "We've reached the containment room of SCP-106.",
+			"text": "Ми дісталися до камери утримання SCP-106.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Protocol.ogg": [
 		{
-			"text": "Initiating the recall protocol...",
+			"text": "Ініціювання протоколу кликання...",
 			"color": "mtf"
 		},
 		{
-			"text": "SCP-106 contained successfully.",
+			"text": "SCP-106 успішно утриманно.",
 			"delay": 8.0,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted0.ogg": [
 		{
-			"text": "SCP-106 has been spotted, running!",
+			"text": "Помічено SCP-106, тікаймо!",
 			"delay": 0.218,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted1.ogg": [
 		{
-			"text": "The Old Man is coming out! Let's get the fuck out of here.",
+			"text": "Старий йде! З'йобуємо звідси.",
 			"delay": 0.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted2.ogg": [
 		{
-			"text": "I've spotted SCP-106, run!",
+			"text": "Помітив SCP-106, тікаймо!",
 			"delay": 0.09,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\106\\Spotted3.ogg": [
 		{
-			"text": "Forget about the D, we gotta run!",
+			"text": "Забудь про D, нам треба бігти!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Spotted0.ogg": [
 		{
-			"text": "SCP-173 spotted!",
+			"text": "Помічено SCP-173!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Spotted1.ogg": [
 		{
-			"text": "SCP-173 spotted!",
+			"text": "Помічено SCP-173!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Spotted2.ogg": [
 		{
-			"text": "Forget about the D, keep your sight on the statue.",
+			"text": "Забудь про D, не зводь очей зі статуї.",
 			"delay": 0.65,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Blinking.ogg": [
 		{
-			"text": "Blinking.",
+			"text": "Блимаю.",
 			"color": "mtf",
 			"length": 2.0
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Box0.ogg": [
 		{
-			"text": "SCP-173 has been put in the containment box. Taking to the containment chamber.",
+			"text": "SCP-173 поміщено до контейнера для утримання. Транспортуємо до камери утримання.",
 			"delay": 0.06,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Box1.ogg": [
 		{
-			"text": "The statue is in the box. Taking to containment chamber.",
+			"text": "Статуя в контейнері. Транспортуємо до камери утримання.",
 			"delay": 0.1,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Box2.ogg": [
 		{
-			"text": "Command, we've boxed up SCP-173. We're moving to it's containment chamber now to contain it, out.",
+			"text": "Диспетчерська, ми захопили SCP-173. Транспортуємо його до камери утримання.",
 			"delay": 0.57,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont0.ogg": [
 		{
-			"text": "SCP-173 is in containment chamber. Closing door.",
+			"text": "SCP-173 у камері утримання. Зачиняємо двері.",
 			"delay": 0.4,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont1.ogg": [
 		{
-			"text": "The statue is in the chamber. Closing the door.",
+			"text": "Статуя у камері. Зачиняємо двері.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont2.ogg": [
 		{
-			"text": "SCP-173 is back in containment. Proceeding to next objective.",
+			"text": "SCP-173 утриманно. Переходимо до наступного завдання.",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Character\\MTF\\173\\Cont3.ogg": [
 		{
-			"text": "SCP-173 has been secured in its containment chamber.",
+			"text": "SCP-173 було доставлено до камери утримання.",
 			"delay": 0.4,
 			"color": "mtf"
 		},
 		{
-			"text": "We're moving on to the next objective, out.",
+			"text": "Переходимо до наступного завдання, кінець.",
 			"delay": 5.35,
 			"color": "mtf"
 		}
