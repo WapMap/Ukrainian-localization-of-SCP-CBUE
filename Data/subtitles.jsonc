@@ -120,7 +120,7 @@
 	],
 	"SFX\\Room\\Intro\\Guard\\Ulgrin\\ExitCellRefuse1.ogg": [
 		{
-			"text": "Слухай, друже, в мене немає цілого дня. Я намагаюся бути ввічливим. Якщо ти не вийдеш з камери, я тобі в'їбу.",
+			"text": "Слухай, друже, в мене нема цілого дня. Я намагаюся бути ввічливим. Якщо ти не вийдеш з камери, я тобі в'їбу.",
 			"color": "guard",
 			"length": 5.6
 		}
@@ -1140,7 +1140,7 @@
 	/* CHARACTERS */
 	"SFX\\Character\\Maintenance\\EscapeFromClosets.ogg": [
 		{
-			"text": "Гадаю, найкоротший вихід — через південно-східне крило. Йдіть за мною.",
+			"text": "Гадаю, найкоротший вихід — через південно-східне крило. Йди за мною.",
 			"color": "crew"
 		}
 	],
@@ -1156,7 +1156,7 @@
 	/* 096 GUARD */
 	"SFX\\Character\\Guard\\096ServerRoom0.ogg": [
 		{
-			"text": "Привіт?",
+			"text": "Агов?",
 			"delay": 1.4,
 			"color": "guard"
 		},
@@ -1191,7 +1191,7 @@
 			"color": "guard"
 		},
 		{
-			"text": "Відчепіться від мене!",
+			"text": "Відчепись від мене!",
 			"delay": 12.8,
 			"color": "guard"
 		},
@@ -1548,7 +1548,7 @@
 	/* D-9341 */
 	"SFX\\SCP\\012\\Speech0.ogg": [
 		{
-			"text": "Трохи... справді...",
+			"text": "Трохи... справді трохи...",
 			"delay": 1.47,
 			"color": "classd"
 		},
@@ -2349,115 +2349,115 @@
 	/* 035 */
 	"SFX\\Radio\\035Help0.ogg": [
 		{
-			"text": "Hello? Please, can anyone hear me?",
+			"text": "Агов? Будь ласка, хтось мене чує?",
 			"delay": 0.7
 		},
 		{
-			"text": "Anyone? I need help, and medical attention too! Please!",
+			"text": "Хтось? Мені потрібна допомога, і медична також! Будь ласка!",
 			"delay": 4.9
 		},
 		{
-			"text": "I'm currently in the Heavy Containment Zone beyond Checkpoint E, and I'm locked in SCP-035's containment chamber.",
+			"text": "Я зараз у зоні важкого утримання за контрольно-пропускним пунктом E та замкнений у камері утримання SCP-035.",
 			"delay": 12.2
 		}
 	],
 	"SFX\\Radio\\035Help1.ogg": [
 		{
-			"text": "Please! I know my way around this compound. If you can get me out of here, I'll help you out of the facility and into the surface!",
+			"text": "Будь ласка! Я знаю, як тут жити. Якщо ви витягните мене звідси, я допоможу вам вибратися з комплексу на поверхню!",
 			"delay": 0.6
 		}
 	],
 	"SFX\\SCP\\035\\Help0.ogg": [
 		{
-			"text": "Oh thank God!",
+			"text": "Ох, слава Богу!",
 			"delay": 0.57
 		},
 		{
-			"text": "Someone actually found me! I thought I was done for a moment there, haha!",
+			"text": "Хтось мене справді знайшов! Я на мить подумав, що відкинусь тут, ха-ха!",
 			"delay": 2.48
 		}
 	],
 	"SFX\\SCP\\035\\Help1.ogg": [
 		{
-			"text": "I can get us both safely to the surface. Just find the control panel in there and open the chamber doors for me."
+			"text": "Я можу безпечно вивести нас на поверхню. Просто знайдіть там панель керування та відчиніть мені двері камери."
 		}
 	],
 	"SFX\\SCP\\035\\Idle0.ogg": [
 		{
-			"text": "Well? What are you waiting for?",
+			"text": "Ну? Чого чекаєте?",
 			"delay": 0.19
 		}
 	],
 	"SFX\\SCP\\035\\Idle1.ogg": [
 		{
-			"text": "What? Do you not-"
+			"text": "Що? Хіба ви не-"
 		},
 		{
-			"text": "Alright, I admit it, I wouldn't blame you if you don't think I look trustworthy. But, please! I need your help and quickly!",
+			"text": "Гаразд, визнаю, я не звинувачуватиму вас, за лічення мене ненадійним. Але, будь ласка! Мені потрібна ваша допомога, і швидко!",
 			"delay": 1.78
 		},
 		{
-			"text": "The mask has been stuck to my face for some time now and I think I might need medical attention or it might kill me from the inside.",
+			"text": "Маска вже деякий час прилипла до мого обличчя, і я гадаю, що мені може знадобитися медична допомога, інакше вона вб'є мене зсередини.",
 			"delay": 9.0
 		},
 		{
-			"text": "Just let me out so I can find us an exit in a matter of time.",
+			"text": "Просто звільніть мене, щоб я міг знайти нам вихід за лічені хвилини.",
 			"delay": 15.0
 		}
 	],
 	"SFX\\SCP\\035\\Idle2.ogg": [
 		{
-			"text": "*SIGH*"
+			"text": "*ЗІТХАЄ*"
 		},
 		{
-			"text": "I'm starting to lose my patience here.",
+			"text": "Я починаю втрачати терпіння.",
 			"delay": 1.75
 		}
 	],
 	"SFX\\SCP\\035\\Idle3.ogg": [
 		{
-			"text": "What are you doing just standing there?",
+			"text": "Що ви робите, просто стоячи там?",
 			"delay": 0.3
 		}
 	],
 	"SFX\\SCP\\035\\Idle4.ogg": [
 		{
-			"text": "You know... the Mobile Task Force will be entering the facility any minute now.",
+			"text": "Знаєте... мобільна оперативна група увійде на територію об'єкту з хвилини на хвилину.",
 			"delay": 0.7
 		},
 		{
-			"text": "Guess what they do to stray Class-Ds like you?",
+			"text": "Вгадайте, що вони зроблять з такими блукаючими класами D, як ви?",
 			"delay": 5.4
 		}
 	],
 	"SFX\\SCP\\035\\Idle5.ogg": [
 		{
-			"text": "Are you even listening?",
+			"text": "Ви взагалі слухаєте?",
 			"delay": 0.5
 		}
 	],
 	"SFX\\SCP\\035\\Idle6.ogg": [
 		{
-			"text": "Fine. Good luck getting out all on your own.",
+			"text": "Гаразд. Вдачі вам вибратися звідси самостійно.",
 			"delay": 0.95,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\Closet0.ogg": [
 		{
-			"text": "Alright, look.",
+			"text": "Добре, слухайте.",
 			"delay": 0.64
 		},
 		{
-			"text": "If you still don't think I'm trustworthy enough, there's a locked storage room behind you. You probably noticed that it's guarded with a 4 digit passcode.",
+			"text": "Якщо ви все ще вважаєте мене недостатньо надійним, то за вами є замкнене сховище. Ви, мабуть, помітили, що воно охороняється чотиризначним кодом доступу.",
 			"delay": 2.24
 		},
 		{
-			"text": "Inside is some useful equipment. As well as a pill of SCP-500.",
+			"text": "Всередині знаходиться корисне обладнання. А також пігулка SCP-500.",
 			"delay": 9.7
 		},
 		{
-			"text": "The passcode, is 5-7-3-1. Got it?",
+			"text": "Код доступу — 5-7-3-1. Зрозуміли?",
 			"delay": 14.9
 		},
 		{
@@ -2467,157 +2467,157 @@
 	],
 	"SFX\\SCP\\035\\Closet1.ogg": [
 		{
-			"text": "You see? You can trust me. Now please, just hurry and open the door!",
+			"text": "Бачите? Можете мені довіряти. А тепер, будь ласка, просто швидше відчиніть двері!",
 			"delay": 0.43
 		}
 	],
 	"SFX\\SCP\\035\\Escape.ogg": [
 		{
-			"text": "Unfortunately, I never had any intentions of taking you with me. So this is where we part ways."
+			"text": "На жаль, в мене ніколи не було наміру брати вас з собою. Тож на цьому наші шляхи розходяться."
 		},
 		{
-			"text": "But for the sake of my freedom,",
+			"text": "Але заради моєї свободи,",
 			"delay": 6.0
 		},
 		{
-			"text": "I have reason to believe that SCP-079 has taken control of the facility's systems, including the door system.",
+			"text": "в мене є підстави вважати, що SCP-079 взяв під контроль системи об'єкта, включаючи керування дверима.",
 			"delay": 8.7
 		},
 		{
-			"text": "Your best bet is to appeal to it somehow. Hopefully you can come to a compromise. However, it does not control the warheads.",
+			"text": "Найкращий варіант — якось до нього звернутися. Сподіваюсь, ви зможете дійти компромісу. Однак, він не контролює боєголовки.",
 			"delay": 15.8
 		},
 		{
-			"text": "Which you should disable remotely in the event that something goes wrong.",
+			"text": "Які слід відключити дистанційно у випадку, якщо щось піде не так.",
 			"delay": 23.8
 		}
 	],
 	"SFX\\SCP\\035\\Gased0.ogg": [
 		{
-			"text": "Wait? What the hell are you doing? What the hell are-"
+			"text": "Чекайте? Що ви, чорт забирай, робите? Що, чорт забирай-"
 		},
 		{
-			"text": "*CHOKING*",
+			"text": "*ЗАДИХАЄТЬСЯ*",
 			"delay": 2.95
 		},
 		{
-			"text": "Please- Why-",
+			"text": "Будь ласка- Чому-",
 			"delay": 5.0
 		},
 		{
-			"text": "Just please-",
+			"text": "Просто будь ласка-",
 			"delay": 6.28
 		},
 		{
-			"text": "I can't breathe!",
+			"text": "Я не можу дихати!",
 			"delay": 8.0
 		},
 		{
-			"text": "No!",
+			"text": "Ні!",
 			"delay": 10.45
 		},
 		{
-			"text": "*COUGHING*",
+			"text": "*ПИРХАЄ*",
 			"delay": 11.9
 		}
 	],
 	"SFX\\SCP\\035\\Gased1.ogg": [
 		{
-			"text": "*CHOKING*"
+			"text": "*ЗАДИХАЄТЬСЯ*"
 		}
 	],
 	"SFX\\SCP\\035\\GasedStop0.ogg": [
 		{
-			"text": "*COUGHING*"
+			"text": "*КАХИКАЄ*"
 		},
 		{
-			"text": "Thank you!",
+			"text": "Дякую!",
 			"delay": 2.5
 		},
 		{
-			"text": "Just please...",
+			"text": "Тільки будь ласка...",
 			"delay": 5.85
 		},
 		{
-			"text": "Don't do that again...",
+			"text": "Не робить так більше...",
 			"delay": 7.95
 		}
 	],
 	"SFX\\SCP\\035\\GasedStop1.ogg": [
 		{
-			"text": "*COUGHING*"
+			"text": "*КАХИКАЄ*"
 		},
 		{
-			"text": "*SIGH* Now...",
+			"text": "*ЗІТХАЄ* Зараз...",
 			"delay": 2.0
 		},
 		{
-			"text": "Was that really necessary?",
+			"text": "Це справді було так необхідно?",
 			"delay": 5.25
 		},
 		{
-			"text": "I offer you some help and you try thank me by «suffocating» me?",
+			"text": "Я пропоную вам допомогу, а ви намагаєтеся віддячити мені, «задушивши» мене?",
 			"delay": 7.5
 		}
 	],
 	"SFX\\SCP\\035\\GasedCloset.ogg": [
 		{
-			"text": "Now... now... I think we got off on the wrong foot here. Really.",
+			"text": "Тепер... тепер... Я гадаю, що ми почали не з тієї ноги. Справді.",
 			"delay": 0.25
 		},
 		{
-			"text": "To prove that I'm not up to no good, try that locked door over there. The code is 5-7-3-1.",
+			"text": "Щоб довести, що я не задумав нічого поганого, спробуй відчинити оті замкнені двері. Код: 5-7-3-1.",
 			"delay": 4.77
 		},
 		{
-			"text": "5-7-3-1! Got it?",
+			"text": "5-7-3-1! Зрозуміло?",
 			"delay": 10.95
 		},
 		{
-			"text": "You'll find all sorts of goodies in there, okay? Please, just not the gas again.",
+			"text": "Ви знайдете там усілякі смаколики, гаразд? Будь ласка, тільки не газ.",
 			"delay": 13.8
 		}
 	],
 	"SFX\\SCP\\035\\GasedEscape.ogg": [
 		{
-			"text": "Unfortunately, I can't take you with me.",
+			"text": "На жаль, я не можу взяти вас з собою.",
 			"delay": 0.39,
 			"color": "035"
 		},
 		{
-			"text": "You're too much of a liability in many ways. So yes, I did lie to you.",
+			"text": "Ви занадто багато для мене відповідальні. Тож так, я вам збрехав.",
 			"delay": 3.35,
 			"color": "035"
 		},
 		{
-			"text": "But for the sake of my freedom,",
+			"text": "Але, заради моєї свободи,",
 			"delay": 8.5,
 			"color": "035"
 		},
 		{
-			"text": "The easiest way to get out safely is probably Gate A.",
+			"text": "найпростіший спосіб безпечно вибратися, мабуть, через ворота А.",
 			"delay": 10.55,
 			"color": "035"
 		},
 		{
-			"text": "The security is pretty high, but if you manage to sneak past the guards and reach the lower level under the bridge, there's an unguarded service tunnel.",
+			"text": "Охорона досить сильна, але якщо вам вдасться прослизнути повз і дістатися нижнього рівня під мостом, там є службовий тунель.",
 			"delay": 15.25,
 			"color": "035"
 		},
 		{
-			"text": "That's your way out.",
+			"text": "Це ваш вихід.",
 			"delay": 23.35,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\GasedKilled0.ogg": [
 		{
-			"text": "So. You really don't wanna leave this place alive, do you?",
+			"text": "Отже. Ви справді не хочете покинути це місце живими, чи не так?",
 			"delay": 2.18,
 			"color": "035"
 		},
 		{
-			"text": "You know, there's no way a lone D-Class like you will make it to the surface safely. Even if you did, they'd gun you down the moment you came across their reticals.",
+			"text": "Знаєте, такі самотні класи D, як ви, ніяк не дістануться поверхні безпечно. Навіть якби ви це б зробили, вони б вас розстріляли, щойно ви натрапите на їхні ретикули.",
 			"delay": 6.97,
 			"color": "035"
 		}
