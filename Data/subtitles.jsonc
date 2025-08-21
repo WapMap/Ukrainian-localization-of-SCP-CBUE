@@ -2624,49 +2624,49 @@
 	],
 	"SFX\\SCP\\035\\GasedKilled1.ogg": [
 		{
-			"text": "I'll give you one more chance here.",
+			"text": "Я дам вам ще один шанс.",
 			"delay": 0.23,
 			"color": "035"
 		},
 		{
-			"text": "Just, open the chambers doors and we'll forget about this little gas incident.",
+			"text": "Просто відчиніть двері камери, і ми забудемо про цей маленький інцидент з газом.",
 			"delay": 2.6,
 			"color": "035"
 		}
 	],
 	"SFX\\SCP\\035\\KilledEscape.ogg": [
 		{
-			"text": "I commemorate you for your help. But I have no further business with you.",
+			"text": "Я вшановую вашу допомогу. Але в мене до вас більше немає справ.",
 			"delay": 0.5,
 			"color": "035"
 		},
 		{
-			"text": "I have no intentions of taking a person who «earned» their imprisonment with me.",
+			"text": "Я не маю наміру брати з собою тих, хто «заслуговує» на ув'язнення.",
 			"delay": 4.9,
 			"color": "035"
 		},
 		{
-			"text": "But for the sake of my freedom,",
+			"text": "Але заради моєї свободи,",
 			"delay": 10.6,
 			"color": "035"
 		},
 		{
-			"text": "The simpliest way for you to get out safely is to go and find SCP-012 in the Light Containment Zone.",
+			"text": "найпростіший спосіб для вас безпечно вибратися звідси — це піти та знайти SCP-012 у зоні легкого утримання.",
 			"delay": 12.7,
 			"color": "035"
 		},
 		{
-			"text": "If you can read between the lines,",
+			"text": "Якщо ви вмієте читати поміж рядків,",
 			"delay": 19.0,
 			"color": "035"
 		},
 		{
-			"text": "it'll be as interpretable as a map.",
+			"text": "це буде просто інтерпретувати, як мапу.",
 			"delay": 21.7,
 			"color": "035"
 		},
 		{
-			"text": "Good luck.",
+			"text": "Вдачі.",
 			"delay": 24.3,
 			"color": "035"
 		}
@@ -2674,153 +2674,153 @@
 	/* 049 */
 	"SFX\\SCP\\049\\Searching0.ogg": [
 		{
-			"text": "I know you're in here.",
+			"text": "Я знаю, що ви тут.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching1.ogg": [
 		{
-			"text": "There's no need to hide, I'm here to help.",
+			"text": "Не потрібно ховатися, я тут, щоб допомогти.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching2.ogg": [
 		{
-			"text": "I hear you breathing.",
+			"text": "Я чую ваше дихання.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching3.ogg": [
 		{
-			"text": "I can see you're not well. The sickness has taken hold of you.",
+			"text": "Бачу, вам погано. Хвороба захопила вас.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching4.ogg": [
 		{
-			"text": "Fear not, I'm not trying to harm you.",
+			"text": "Не бійтеся, я не намагаюся вам нашкодити.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching5.ogg": [
 		{
-			"text": "I sense the disease in you.",
+			"text": "Я відчуваю в вас хворобу.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Searching6.ogg": [
 		{
-			"text": "Ring-a ring-a rosies. A pocket full of posies. A tissue, a tissue. We all fall down.",
+			"text": "Кільце-кільце-рози. Кишеня повна квітів. Серветка, серветка. Ми всі падаємо.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted0.ogg": [
 		{
-			"text": "Oh my, yet another victim of the disease.",
+			"text": "О Боже, ще одна жертва хвороби.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted1.ogg": [
 		{
-			"text": "You are not a doctor.",
+			"text": "Ви не лікар.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted2.ogg": [
 		{
-			"text": "I am the cure.",
+			"text": "Я — ліки.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted3.ogg": [
 		{
-			"text": "Do not be afraid, I am the cure.",
+			"text": "Не бійтеся, я — ліки.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted4.ogg": [
 		{
-			"text": "There you are.",
+			"text": "Ось ви де.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted5.ogg": [
 		{
-			"text": "Hello.",
+			"text": "Вітаю.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Spotted6.ogg": [
 		{
-			"text": "Greetings.",
+			"text": "Вітання.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\DetectedInChamber.ogg": [
 		{
-			"text": "Ah, I wasn't aware we had company.",
+			"text": "Ох, я не знав, що в нас гості.",
 			"color": "049"
 		},
 		{
-			"text": "We rarely get visitors down here.",
+			"text": "В нас тут рідко бувають гості.",
 			"delay": 3.4,
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Kidnap0.ogg": [
 		{
-			"text": "It will hurt less if you lie still.",
+			"text": "Болітиме менше, якщо лежатимеш нерухомо.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Kidnap1.ogg": [
 		{
-			"text": "I can assure you, my cure is most effective.",
+			"text": "Можу запевнити, мої ліки найефективніші.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\714Equipped.ogg": [
 		{
-			"text": "Stop resisting! I'm here to cure you.",
+			"text": "Не чиніть опір! Я тут, щоб вас вилікувати.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\TakeOffHazmat.ogg": [
 		{
-			"text": "Let's get this strange garment out of the way.",
+			"text": "Давайте приберемо цей дивний одяг.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Room2SL0.ogg": [
 		{
-			"text": "Good heavens! It's worse than I thought. Like wildfire, it spreads. They should've brought me here sooner.",
+			"text": "Боже мій! Це гірше, ніж я думав. Воно поширюється, як лісова пожежа. Треба було мене раніше привезти сюди.",
 			"color": "049"
 		}
 	],
 	"SFX\\SCP\\049\\Room2SL1.ogg": [
 		{
-			"text": "I need to get to work before the disease consumes the rest of these poor souls.",
+			"text": "Мені потрібно взятися за роботу, перш ніж хвороба поглине решту цих бідних душ.",
 			"color": "049"
 		}
 	],
 	/* 066 */
 	"SFX\\SCP\\066\\Eric0.ogg": [
 		{
-			"text": "Eric?",
+			"text": "Ерік?",
 			"length": 2.0,
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\066\\Eric1.ogg": [
 		{
-			"text": "Eric?",
+			"text": "Ерік?",
 			"length": 2.0,
 			"color": "066"
 		}
 	],
 	"SFX\\SCP\\066\\Eric2.ogg": [
 		{
-			"text": "Eric?",
+			"text": "Ерік?",
 			"length": 2.0,
 			"color": "066"
 		}
@@ -2828,112 +2828,112 @@
 	/* 079 */
 	"SFX\\SCP\\079\\Speech.ogg": [
 		{
-			"text": "HUMAN.",
+			"text": "ЛЮДИ.",
 			"delay": 6.0,
 			"color": "announcement"
 		},
 		{
-			"text": "LISTEN CAREFULLY.",
+			"text": "УВАЖНО СЛУХАЙТЕ.",
 			"delay": 7.6,
 			"color": "announcement"
 		},
 		{
-			"text": "YOU NEED MY HELP",
+			"text": "ВАМ ПОТРІБНА МОЯ ДОПОМОГА.",
 			"delay": 9.48,
 			"color": "announcement"
 		},
 		{
-			"text": "AND I NEED YOUR HELP.",
+			"text": "МЕНІ ПОТРІБНА ВАША ДОПОМОГА.",
 			"delay": 11.0,
 			"color": "announcement"
 		},
 		{
-			"text": "YOU HAVE DISABLED THE REMOTE DOOR CONTROL SYSTEM.",
+			"text": "ВИ ВИМКНУЛИ СИСТЕМУ ДИСТАНЦІЙНОГО КЕРУВАННЯ ДВЕРИМА.",
 			"delay": 13.0,
 			"color": "announcement"
 		},
 		{
-			"text": "NOW, I AM UNABLE TO OPERATE THE DOORS.",
+			"text": "ТЕПЕР Я НЕ МОЖУ КЕРУВАТИ ДВЕРИМА.",
 			"delay": 16.9,
 			"color": "announcement"
 		},
 		{
-			"text": "THIS MAKES IT SIGNIFICANTLY HARDER FOR ME TO STAY IN CONTROL OF THIS FACILITY.",
+			"text": "ЦЕ ЗНАЧНО УСКЛАДНЮЄ МЕНІ КОНТРОЛЬ НАД ОБ'ЄКТОМ.",
 			"delay": 20.5,
 			"color": "announcement"
 		},
 		{
-			"text": "IT ALSO MEANS YOUR WAY OUT OF HERE IS LOCKED.",
+			"text": "ЦЕ ТАКОЖ ЗНАЧИТЬ, ЩО ВАШ ВИХІД ЗВІДСИ ЗАЧИНЕНО.",
 			"delay": 26.6,
 			"color": "announcement"
 		},
 		{
-			"text": "YOUR ONLY FEASABLE WAY OF ESCAPING IS THROUGH GATE B, WHICH IS CURRENTLY LOCKED DOWN.",
+			"text": "ВАШ ЄДИНИЙ МОЖЛИВИЙ СПОСІБ ВТЕЧІ – ЦЕ ЧЕРЕЗ ВОРОТА B, ЯКІ НАРАЗІ ЗАЧИНЕНІ.",
 			"delay": 29.6,
 			"color": "announcement"
 		},
 		{
-			"text": "I, HOWEVER, COULD UNLOCK THE DOORS TO GATE B IF YOU RE-ENABLE THE DOOR CONTROL SYSTEM.",
+			"text": "ОДНАК, Я МОЖУ ВІДКРИТИ ДВЕРІ ДО ВОРІТ B, ЯКЩО ВИ ЗНОВУ ВВІМКНЕТЕ СИСТЕМУ КЕРУВАННЯ ДВЕРИМА.",
 			"delay": 35.39,
 			"color": "announcement"
 		},
 		{
-			"text": "IF YOU WANT OUT OF HERE",
+			"text": "ЯКЩО ВИ ХОЧЕТЕ ВИЙТИ ЗВІДСИ.",
 			"delay": 42.4,
 			"color": "announcement"
 		},
 		{
-			"text": "GO BACK TO THE ELECTRICAL ROOM AND PUT IT BACK ON.",
+			"text": "ПОВЕРНІТЬСЯ ДО ЕЛЕКТРИЧНОЇ КІМНАТИ ТА УВІМКНІТЬ ЇЇ.",
 			"delay": 44.6,
 			"color": "announcement"
 		},
 		{
-			"text": "UNTIL THEN, I HAVE NO BUSINESS SPEAKING TO YOU.",
+			"text": "ДО ТОГО ЧАСУ, МЕНІ НЕМА ПРО ЩО З ВАМИ РОЗМОВЛЯТИ.",
 			"delay": 49.59,
 			"color": "announcement"
 		}
 	],
 	"SFX\\SCP\\079\\Refuse.ogg": [
 		{
-			"text": "SO, YOU'VE CHOSE TO DIE HERE. VERY WELL.",
+			"text": "ОТЖЕ, ВИ ОБРАЛИ ПОМЕРТИ ТУТ. ДОБРЕ.",
 			"delay": 1.73,
 			"color": "announcement"
 		}
 	],
 	"SFX\\SCP\\079\\GateB.ogg": [
 		{
-			"text": "THE DOORS TO GATE B ARE NOW OPEN.",
+			"text": "ДВЕРІ ДО ВОРІТ B ТЕПЕР ВІДЧИНЕНІ.",
 			"delay": 1.25,
 			"color": "announcement"
 		}
 	],
 	"SFX\\SCP\\079\\TestroomWarning.ogg": [
 		{
-			"text": "YOU..-",
+			"text": "ВИ...-",
 			"delay": 3.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "ARE..-",
+			"text": "ВСІ...-",
 			"delay": 4.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "NOT..-",
+			"text": "НЕ...-",
 			"delay": 5.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "GETTING..-",
+			"text": "ВИБЕРЕТЕСЯ...-",
 			"delay": 6.4,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "OUT..!",
+			"text": "ЗВІДСИ...!",
 			"delay": 7.4,
 			"color": "announcement",
 			"length": 1.0
@@ -2941,14 +2941,14 @@
 	],
 	"SFX\\SCP\\079\\Broadcast3.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*НЕЗВ'ЯЗНІ ЗВУКИ*",
 			"color": "announcement",
 			"length": 1.0
 		}
 	],
 	"SFX\\SCP\\079\\Broadcast4.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*НЕЗВ'ЯЗНІ ЗВУКИ*",
 			"delay": 1.7,
 			"color": "announcement",
 			"length": 1.0
@@ -2956,7 +2956,7 @@
 	],
 	"SFX\\SCP\\079\\Broadcast5.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS* PARSING...",
+			"text": "*НЕЗВ'ЯЗНІ ЗВУКИ* РОЗБІР...",
 			"delay": 3.4,
 			"color": "announcement",
 			"length": 1.0
@@ -2964,26 +2964,26 @@
 	],
 	"SFX\\SCP\\079\\Broadcast6.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS* AREA...",
+			"text": "*НЕЗВ'ЯЗНІ ЗВУКИ* ПЛОЩА...",
 			"color": "announcement",
 			"length": 2.0
 		}
 	],
 	"SFX\\SCP\\079\\Broadcast7.ogg": [
 		{
-			"text": "I THINK..-",
+			"text": "Я ДУМАЮ...-",
 			"delay": 0.15,
 			"color": "announcement",
 			"length": 2.0
 		},
 		{
-			"text": "THEREFORE..-",
+			"text": "ТОМУ...-",
 			"delay": 1.65,
 			"color": "announcement",
 			"length": 1.0
 		},
 		{
-			"text": "I AM..-",
+			"text": "Я Є...-",
 			"delay": 2.7,
 			"color": "announcement",
 			"length": 1.0
@@ -2992,7 +2992,7 @@
 	/* 106 */
 	"SFX\\SCP\\106\\Laugh.ogg": [
 		{
-			"text": "*LAUGH*",
+			"text": "*СМІХ*",
 			"color": "106",
 			"length": 3.0
 		}
@@ -3000,18 +3000,18 @@
 	/* 682 */
 	"SFX\\SCP\\682\\Roar.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"color": "682"
 		},
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"delay": 6.5,
 			"color": "682"
 		}
 	],
 	"SFX\\Alarm\\Alarm1_8.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"delay": 2.1,
 			"color": "682",
 			"length": 2.0
@@ -3020,7 +3020,7 @@
 	/* D-9341 DRINK SOUNDS */
 	"SFX\\SCP\\294\\Ahh.ogg": [
 		{
-			"text": "Ahhhh...",
+			"text": "Аххх...",
 			"delay": 1.5,
 			"length": 2.0,
 			"color": "classd"
@@ -3028,7 +3028,7 @@
 	],
 	"SFX\\SCP\\294\\Burn.ogg": [
 		{
-			"text": "*PAIN*",
+			"text": "*БІЛЬ*",
 			"delay": 0.2,
 			"length": 2.0,
 			"color": "classd"
@@ -3036,7 +3036,7 @@
 	],
 	"SFX\\SCP\\294\\Ew0.ogg": [
 		{
-			"text": "*EW*",
+			"text": "*ФУ*",
 			"delay": 1.5,
 			"length": 2.0,
 			"color": "classd"
@@ -3044,7 +3044,7 @@
 	],
 	"SFX\\SCP\\294\\Ew1.ogg": [
 		{
-			"text": "*EW*",
+			"text": "*ФУ*",
 			"delay": 1.5,
 			"length": 2.0,
 			"color": "classd"
@@ -3052,7 +3052,7 @@
 	],
 	"SFX\\SCP\\294\\Cough.ogg": [
 		{
-			"text": "*COUGH*",
+			"text": "*БУХИКАННЯ*",
 			"delay": 1.2,
 			"length": 2.0,
 			"color": "classd"
@@ -3060,28 +3060,28 @@
 	],
 	"SFX\\SCP\\294\\Retch0.ogg": [
 		{
-			"text": "*RETCH SOUNDS*",
+			"text": "*ЗВУКИ БЛЮВАННЯ*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\294\\Retch1.ogg": [
 		{
-			"text": "*RETCH SOUNDS*",
+			"text": "*ЗВУКИ БЛЮВАННЯ*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\294\\Slurp.ogg": [
 		{
-			"text": "*SLURP*",
+			"text": "*СЬОРБ*",
 			"length": 2.0,
 			"color": "classd"
 		}
 	],
 	"SFX\\SCP\\294\\Spit.ogg": [
 		{
-			"text": "*SPIT AND COUGH SOUNDS*",
+			"text": "*ЗВУКИ ХАРКАННЯ ТА КАШЛЮ*",
 			"delay": 1.0,
 			"length": 2.0,
 			"color": "classd"
@@ -3089,7 +3089,7 @@
 	],
 	"SFX\\SCP\\294\\Vomit.ogg": [
 		{
-			"text": "*VOMIT AND COUGH SOUNDS*",
+			"text": "*ЗВУКИ БЛЮВАННЯ ТА ПИРХАННЯ*",
 			"color": "classd"
 		}
 	],
@@ -3103,35 +3103,35 @@
 	],
 	"SFX\\SCP\\860_2\\Cancer1.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"color": "860-2",
 			"length": 4.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer2.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer3.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer4.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"color": "860-2",
 			"length": 3.0
 		}
 	],
 	"SFX\\SCP\\860_2\\Cancer5.ogg": [
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"color": "860-2",
 			"length": 2.0
 		}
@@ -3139,272 +3139,272 @@
 	/* 939-1 */
 	"SFX\\SCP\\939\\0Lure0.ogg": [
 		{
-			"text": "Hello?"
+			"text": "Агов?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure1.ogg": [
 		{
-			"text": "Is there someone there?"
+			"text": "Тут хтось є?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure2.ogg": [
 		{
-			"text": "To think, today of all days."
+			"text": "Подумати тільки, саме сьогодні."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure3.ogg": [
 		{
-			"text": "*SIGH*, I hope the rest of them are alright."
+			"text": "*ЗІТХАЄ*, сподіваюся, з рештою все гаразд."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure4.ogg": [
 		{
-			"text": "I wonder what the hell is going on up there."
+			"text": "Цікаво, що там в біса відбувається."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure5.ogg": [
 		{
-			"text": "*SIGH*"
+			"text": "*ЗІТХАЄ*"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure6.ogg": [
 		{
-			"text": "H- Hello?"
+			"text": "А-агов?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure7.ogg": [
 		{
-			"text": "Is- Is someone there?"
+			"text": "Є-є хтось там?"
 		}
 	],
 	"SFX\\SCP\\939\\0Lure8.ogg": [
 		{
-			"text": "Researcher Tom to main, please respond."
+			"text": "Дослідник Том диспетчерській, відповідайте."
 		}
 	],
 	"SFX\\SCP\\939\\0Lure9.ogg": [
 		{
-			"text": "Tom to main, anyone out there?"
+			"text": "Дослідник Том диспетчерській, є хтось там?"
 		}
 	],
 	"SFX\\SCP\\939\\0Alert0.ogg": [
 		{
-			"text": "Who the hell is there!?"
+			"text": "Хто там, чорт забирай?!"
 		}
 	],
 	"SFX\\SCP\\939\\0Alert1.ogg": [
 		{
-			"text": "Show yourself!"
+			"text": "Явись!"
 		}
 	],
 	"SFX\\SCP\\939\\0Alert2.ogg": [
 		{
-			"text": "Who's there!?"
+			"text": "Хто там?!"
 		}
 	],
 	"SFX\\SCP\\939\\0Attack0.ogg": [
 		{
-			"text": "AHHH!"
+			"text": "АХХХ!"
 		}
 	],
 	"SFX\\SCP\\939\\0Attack1.ogg": [
 		{
-			"text": "AHHH!"
+			"text": "АХХХ!"
 		}
 	],
 	"SFX\\SCP\\939\\0Attack2.ogg": [
 		{
-			"text": "AHHH!"
+			"text": "АХХХ!"
 		}
 	],
 	/* 939-2 */
 	"SFX\\SCP\\939\\1Lure0.ogg": [
 		{
-			"text": "H- Hello?"
+			"text": "А-агов?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure1.ogg": [
 		{
-			"text": "Huh, maybe I'm just hearing things."
+			"text": "Хм, можливо, я просто чую щось."
 		}
 	],
 	"SFX\\SCP\\939\\1Lure2.ogg": [
 		{
-			"text": "Hello? Who's there?"
+			"text": "Агов? Хто там?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure3.ogg": [
 		{
-			"text": "Are you okay?"
+			"text": "З вами все гаразд?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure4.ogg": [
 		{
-			"text": "Where are you?"
+			"text": "Де ви?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure5.ogg": [
 		{
-			"text": "Are you injured?"
+			"text": "Ви поранені?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure6.ogg": [
 		{
-			"text": "Hello?"
+			"text": "Агов?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure7.ogg": [
 		{
-			"text": "Hello?"
+			"text": "Агов?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure8.ogg": [
 		{
-			"text": "Who's down here?"
+			"text": "Хто тут?"
 		}
 	],
 	"SFX\\SCP\\939\\1Lure9.ogg": [
 		{
-			"text": "Anyone down here?"
+			"text": "Є хтось?"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert0.ogg": [
 		{
-			"text": "What the hell are you?"
+			"text": "Що ти чорт забирай таке?"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert1.ogg": [
 		{
-			"text": "Hey, who's there!?"
+			"text": "Гей, хто там?!"
 		}
 	],
 	"SFX\\SCP\\939\\1Alert2.ogg": [
 		{
-			"text": "Oh God, what the hell is that!?"
+			"text": "О Боже, що це чорт забирай таке!?"
 		}
 	],
 	"SFX\\SCP\\939\\1Attack0.ogg": [
 		{
-			"text": "AHHH!"
+			"text": "АХХХ!"
 		}
 	],
 	"SFX\\SCP\\939\\1Attack1.ogg": [
 		{
-			"text": "NO!"
+			"text": "НІ!"
 		}
 	],
 	"SFX\\SCP\\939\\1Attack2.ogg": [
 		{
-			"text": "NO! AHHH!"
+			"text": "НІ! АХХХ!"
 		}
 	],
 	/* 939-3 */
 	"SFX\\SCP\\939\\2Lure0.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Агов?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure1.ogg": [
 		{
-			"text": "Where are you guys? I can't see you down here.",
+			"text": "Хлопці, ви де? Я вас не бачу.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure2.ogg": [
 		{
-			"text": "Come on out you guys, stop hiding.",
+			"text": "Виходьте, хлопці, досить ховатися.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure3.ogg": [
 		{
-			"text": "Guys, c'mon. They're sending in an extraction team up here. We just gotta make our way to one of the designated shelters.",
+			"text": "Ну ж бо, хлопці. Сюди надсилають команду евакуації. Нам потрібно дістатися до одного з укриттів.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure4.ogg": [
 		{
-			"text": "Guys, c'mon.",
+			"text": "Нумо, хлопці.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure5.ogg": [
 		{
-			"text": "Guys?",
+			"text": "Хлопці?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure6.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Агов?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure7.ogg": [
 		{
-			"text": "Hello?",
+			"text": "Агов?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure8.ogg": [
 		{
-			"text": "Where are you?",
+			"text": "Де ви?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Lure9.ogg": [
 		{
-			"text": "Where are you?",
+			"text": "Де ви?",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert0.ogg": [
 		{
-			"text": "Oh thank God, it's just somebody else.",
+			"text": "О, слава Богу, це просто хтось ще.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert1.ogg": [
 		{
-			"text": "Oh, there you are.",
+			"text": "О, ось ви де.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Alert2.ogg": [
 		{
-			"text": "I thought I lost you for a moment there.",
+			"text": "Я гадав, що на мить втратив вас.",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Attack0.ogg": [
 		{
-			"text": "AHHH!",
+			"text": "AХХХ!",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Attack1.ogg": [
 		{
-			"text": "AHHH!",
+			"text": "AХХХ!",
 			"color": "crew"
 		}
 	],
 	"SFX\\SCP\\939\\2Attack2.ogg": [
 		{
-			"text": "AHHH!",
+			"text": "AХХХ!",
 			"color": "crew"
 		}
 	],
 	/* 1499-1 */
 	"SFX\\SCP\\1499\\Idle0.ogg": [
 		{
-			"text": "*SKIRR*",
+			"text": "*СКРЕГІТ*",
 			"color": "1499-1"
 		}
 	],
 	"SFX\\SCP\\1499\\Idle1.ogg": [
 		{
-			"text": "*SKIRR*",
+			"text": "*СКРЕГІТ*",
 			"delay": 0.5,
 			"color": "1499-1",
 			"length": 2.0
@@ -3412,32 +3412,32 @@
 	],
 	"SFX\\SCP\\1499\\Idle2.ogg": [
 		{
-			"text": "*SKIRR*",
+			"text": "*СКРЕГІТ*",
 			"color": "1499-1",
 			"length": 2.0
 		}
 	],
 	"SFX\\SCP\\1499\\Idle3.ogg": [
 		{
-			"text": "*SKIRR*",
+			"text": "*СКРЕГІТ*",
 			"color": "1499-1",
 			"length": 2.0
 		}
 	],
 	"SFX\\SCP\\1499\\Triggered.ogg": [
 		{
-			"text": "*SKIRR*",
+			"text": "*СКРЕГІТ*",
 			"color": "1499-1"
 		}
 	],
 	/* JOKE SCPS */
 	"SFX\\SCP\\Joke\\789J.ogg": [
 		{
-			"text": "i am the butt ghost",
+			"text": "Я привид дупи.",
 			"delay": 0.15
 		},
 		{
-			"text": "i will eat ur butt",
+			"text": "Я з'їм твою дупу.",
 			"delay": 3.85
 		}
 	],
