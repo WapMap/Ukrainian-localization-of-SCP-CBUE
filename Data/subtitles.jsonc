@@ -3444,364 +3444,364 @@
 	/* RADIO */
 	"SFX\\Radio\\Chatter0.ogg": [
 		{
-			"text": "Doctor Maynard, please report in at Gate B.",
+			"text": "Докторе Мейнард, будь ласка, з'явіться до воріт B.",
 			"delay": 0.45
 		},
 		{
-			"text": "Um, Doctor Maynard, do you copy?",
+			"text": "Ем, докторе Мейнард, ви чуєте?",
 			"delay": 6.7
 		},
 		{
-			"text": "This is Agent Ulgrin, sir. I'm afraid Doctor Maynard is still inside the facility.",
+			"text": "Це агент Ульгрін, сер. Боюся, доктор Мейнард все ще всередині об'єкту.",
 			"delay": 9.67
 		},
 		{
-			"text": "Oh, um, have you any idea of his location or if he's still alive?",
+			"text": "Ох, ем, чи маєте ви якісь уявлення про його місцезнаходження, він ще живий?",
 			"delay": 15.2
 		},
 		{
-			"text": "Negative, sir. All we know is that he hasn't made it out yet.",
+			"text": "Ні, сер. Все, що ми знаємо, це те, що він ще не вибрався.",
 			"delay": 20.1
 		},
 		{
-			"text": "Copy that. Um, this place is such a God damn maze and he's been working here only for a week. So, it's no wonder he couldn't find his way out. I hope he's still hanging in there.",
+			"text": "Зрозуміло. Ем, це місце — клятий лабіринт, а він працює тут лише тиждень. Тож не дивно, що він не зміг знайти вихід. Сподіваюся, він все ще тримається.",
 			"delay": 24.65
 		},
 		{
-			"text": "I guess we'll find out when the Mobile Task Force goes in.",
+			"text": "Гадаю, ми дізнаємося, коли прибуде МОГ.",
 			"delay": 35.6
 		}
 	],
 	"SFX\\Radio\\Chatter1.ogg": [
 		{
-			"text": "This is Security Chief Franklin. Doctor Harp, do you copy?",
+			"text": "Це начальник служби безпеки Франклін. Докторе Гарп, ви чуєте?",
 			"delay": 0.35
 		},
 		{
-			"text": "This is Doctor Harp, I'm in the middle of something here so please be quick.",
+			"text": "Це доктор Гарп, я зараз зайнятий, тому прошу вас бути лаконічним.",
 			"delay": 6.96
 		},
 		{
-			"text": "I believe that the incident report of 106's breach this morning is still on your computer.",
+			"text": "Гадаю, що звіт про інцидент з порушенням утримання 106-го сьогодні вранці все ще знаходиться на вашому комп'ютері.",
 			"delay": 11.69
 		},
 		{
-			"text": "That's right. Um, feel free to read it if you can reach my office.",
+			"text": "Так, правильно. Якщо ви зможете дістатися до мого офісу, можете його прочитати.",
 			"delay": 18.5
 		},
 		{
-			"text": "We could just read the file through the facility Intranet. We'll need your personal access code to do that, of course.",
+			"text": "Ми можемо просто прочитати файл через внутрішню мережу закладу. Звичайно, для цього нам знадобиться ваш особистий код доступу.",
 			"delay": 23.45
 		},
 		{
-			"text": "Oh yeah well, um, sounds good! Um, as I've said I'm pretty busy now, we're giving the Mobile Task Force a little brief before sending them in. I'll get there and give you the code when we're done. Shouldn't take longer than fifteen minutes.",
+			"text": "Ох так, звучить чудово! Як я вже казав, я зараз дуже зайнятий, ми проводимо невелику нараду з МОГ перед тим, як відправити їх на завдання. Я прийду і дам вам код, коли ми закінчимо. Це не займе більше п'ятнадцяти хвилин.",
 			"delay": 30.9
 		},
 		{
-			"text": "I'm sorry, but we need that file immediately! I understand it's against security protocol. But considering the circumstances, couldn't you just give me the code through the radio? At this point, I don't think the situation could become any worse, no matter who's listening to us right now.",
+			"text": "Вибачте, але нам потрібен цей файл негайно! Я розумію, що це суперечить протоколу безпеки. Але з огляду на обставини, чи не могли б ви просто передати мені код по радіо? Гадаю, на даний момент, ситуація не може погіршитися, незалежно від того, хто нас зараз слухає.",
 			"delay": 44.1
 		},
 		{
-			"text": "Well, yeah I- I think you're right. The code is 7-8-1-6.",
+			"text": "Ну, так, г-гадаю, ви праві. Код 7-8-1-6.",
 			"delay": 62.8
 		},
 		{
-			"text": "Copy that.",
+			"text": "Зрозуміло.",
 			"delay": 69.78
 		}
 	],
 	"SFX\\Radio\\Chatter2.ogg": [
 		{
-			"text": "Um, someone seems to have disabled the remote door control system.",
+			"text": "Ем, здається, хтось вимкнув систему дистанційного керування дверима.",
 			"delay": 0.4
 		}
 	],
 	"SFX\\Radio\\Chatter3.ogg": [
 		{
-			"text": "Movement in Sector B.",
+			"text": "Рух у секторі B.",
 			"delay": 0.5
 		},
 		{
-			"text": "Um, seems to be some Class-D.",
+			"text": "Ем, схоже це клас D.",
 			"delay": 3.4
 		},
 		{
-			"text": "Heh, I bet you fifty bucks says he won't make it in another five minutes.",
+			"text": "Хех, ставлю п'ятдесят баксів, що він не протримається ще п'яти хвилин.",
 			"delay": 7.85
 		}
 	],
 	"SFX\\Radio\\Franklin0.ogg": [
 		{
-			"text": "Mobile Task Force unit Nine-Tailed Fox is being prepped for entry. Hang in there! This will all be over soon.",
+			"text": "МОГ «Дев'ятихвоста лисиця» готується до входу. Тримайтеся! Скоро все це закінчиться.",
 			"delay": 0.65
 		}
 	],
 	"SFX\\Radio\\Franklin1.ogg": [
 		{
-			"text": "To everyone still inside the facility, stay in the evacuation shelters. Do not try to make it to the exits, no matter how close they are. The shelters are your best chance of making it through this.",
+			"text": "Всім, хто ще перебуває всередині об'єкта, залишайтеся в евакуаційних укриттях. Не намагайтеся дістатися до виходів, незалежно від того, наскільки вони близько. Укриття — це ваш найкращий шанс вижити.",
 			"delay": 0.6
 		}
 	],
 	"SFX\\Radio\\Franklin2.ogg": [
 		{
-			"text": "To everyone still hearing this, reality-bending events are common during containment breaches of this magnitude. Do not trust your senses! Do not trust anyone or anything.",
+			"text": "Всім, хто ще це чує, повідомляємо, що під час порушення утримання такого масштабу часто трапляються події, які спотворюють реальність. Не довіряйте своїм відчуттям! Не довіряйте нікому і нічому.",
 			"delay": 0.635
 		}
 	],
 	"SFX\\Radio\\Franklin3.ogg": [
 		{
-			"text": "To everyone still hearing this, reality-bending events are common during containment breaches of this magnitude.",
+			"text": "Всім, хто ще це чує, події, що викривляють реальність, є звичайним явищем під час порушень утримання такого масштабу.",
 			"delay": 0.635
 		},
 		{
-			"text": "During containment breaches of this magnitude.",
+			"text": "Під час порушення утримання такого масштабу.",
 			"delay": 8.22
 		},
 		{
-			"text": "During containment breaches of this magnitude.",
+			"text": "Під час порушення утримання такого масштабу.",
 			"delay": 12.1
 		},
 		{
-			"text": "*INCOHERENT SOUNDS*",
+			"text": "*НЕЗВ'ЯЗНІ ЗВУКИ*",
 			"delay": 15.61
 		}
 	],
 	"SFX\\Radio\\OhGod.ogg": [
 		{
-			"text": "Hello? Is anyone out there?",
+			"text": "Агов? Є хто-небудь?",
 			"delay": 1.76
 		},
 		{
-			"text": "I don't know what- I don't-",
+			"text": "Я не знаю, що- Я не-",
 			"delay": 6.37
 		},
 		{
-			"text": "Oh God, it's coming... Someone, please, anyone... please...",
+			"text": "О Боже, воно наближається... Хто-небудь, будь ласка, будь-хто... будь ласка...",
 			"delay": 9.85
 		},
 		{
-			"text": "Someone needs to broadcast this station at once, please...",
+			"text": "Хтось повинен передати це в ефір, будь ласка...",
 			"delay": 15.45
 		},
 		{
-			"text": "Oh God, what is that? What is that?",
+			"text": "О Боже, що це? Що це?",
 			"delay": 20.7
 		}
 	],
 	"SFX\\Radio\\RadioAlarm1.ogg": [
 		{
-			"text": "This site is experiencing multiple Keter and Euclid-level containment breaches. Full-site lockdown initiated.",
+			"text": "На об'єкті спостерігаються численні порушення рівнів безпеки Кетер та Евклід. Почато повну блокаду об'єкту.",
 			"delay": 0.62
 		}
 	],
 	"SFX\\Radio\\SCPRadio1.ogg": [
 		{
-			"text": "You're listening to SCP foundation on-site radio! Your 24/7 source for pre-recorded messages.",
+			"text": "Ви слухаєте радіостанцію фонда SCP! Ваше джерело попередньо записаних повідомлень, яке працює цілодобово без вихідних.",
 			"delay": 4.0
 		}
 	],
 	"SFX\\Radio\\SCPRadio2.ogg": [
 		{
-			"text": "A reminder, in the event of an XK-Class end-of-the-world scenario, don't panic. It won't help.",
+			"text": "Нагадуємо, що в разі настання кінця світу за сценарієм класу XK, не панікуйте. Це не допоможе.",
 			"delay": 3.2
 		},
 		{
-			"text": "Nothing at all will help.",
+			"text": "Ніщо не допоможе.",
 			"delay": 11.3
 		},
 		{
-			"text": "However, panicking will help probably the least.",
+			"text": "Однак паніка, мабуть, допоможе найменш.",
 			"delay": 13.5
 		}
 	],
 	"SFX\\Radio\\SCPRadio3.ogg": [
 		{
-			"text": "Report all suspect behavior to your supervisors immediately. If you haven't noticed any unusual activity recently, you're not looking hard enough. A threat to security can originate from anywhere, and no one is above suspicion. Not even you.",
+			"text": "Негайно повідомляйте про всі підозрілі дії своїм керівникам. Якщо ви останнім часом не помітили нічого незвичайного, значить, ви недостатньо уважно спостерігаєте. Загроза безпеці може виникнути з будь-якого боку, і ніхто не може бути впевнений у своїй безпеці. Навіть ви.",
 			"delay": 2.9
 		},
 		{
-			"text": "Stay paranoid. Stay vigilant.",
+			"text": "Будьте пильними. Будьте насторожі.",
 			"delay": 18.92
 		}
 	],
 	"SFX\\Radio\\SCPRadio4.ogg": [
 		{
-			"text": "Should you hear a different voice announcing for SCP foundation on-site radio, disregard it entirely. He is not a foundation employee. He is trying to trick you and cannot be trusted. Any advice he gives can only inevitably lead to destruction, death, and utter chaos. You are immeasurably better off listening to me.",
+			"text": "Якщо ви почуєте інший голос, що оголошує по радіостанції фонду SCP, повністю ігноруйте його. Він не є співробітником фонду. Він намагатиметься обдурити вас і йому не можна довіряти. Будь-яка порада, яку він дасть, неминуче призведе до руйнування, смерті та повного хаосу. Вам набагато краще слухати мене.",
 			"delay": 3.5
 		}
 	],
 	"SFX\\Radio\\SCPRadio5.ogg": [
 		{
-			"text": "In the extremely unlikely event of a catastrophic power failure and subsequent facility-wide containment breach, just remember the crisis ABCs. A for armaments. B for blinking, come the lack of. And C for cardiovascular fortitude. As they say, shoot, stare, and sprint! Or, feed the oncoming monster one of your friends.",
+			"text": "У надзвичайно малоймовірному випадку катастрофічного відключення електроенергії та подальшому порушенню утриманнь об'єктів, просто запам'ятайте основні правила поведінки в кризовій ситуації (АБВ). А — атака. Б — блимання, якщо його немає. І В — витривалість. Як то кажуть, стріляйте, дивіться і біжіть! Або нагодуйте наближающегося об'єкта одним зі своїх друзів.",
 			"delay": 3.8
 		},
 		{
-			"text": "Stay alive. Stay vigilant.",
+			"text": "Будьте живими. Будьте пильними.",
 			"delay": 29.3
 		}
 	],
 	"SFX\\Radio\\SCPRadio6.ogg": [
 		{
-			"text": "Every single thing he says is a lie.",
+			"text": "Все, що він говорить, є брехнею.",
 			"delay": 10.1
 		},
 		{
-			"text": "Every single one.",
+			"text": "Кожне слово.",
 			"delay": 14.7
 		},
 		{
-			"text": "Don't listen to him.",
+			"text": "Не слухай його.",
 			"delay": 19.6
 		},
 		{
-			"text": "You can trust me.",
+			"text": "Ти можеш довіряти мені.",
 			"delay": 24.0
 		},
 		{
-			"text": "I can get you out of this.",
+			"text": "Я можу витягнути тебе з цього.",
 			"delay": 29.65
 		},
 		{
-			"text": "I can get you away from all of this.",
+			"text": "Я можу вивести тебе з усього цього.",
 			"delay": 33.75
 		},
 		{
-			"text": "Just listen to me.",
+			"text": "Просто послухай мене.",
 			"delay": 40.4
 		}
 	],
 	"SFX\\Radio\\SCPRadio7.ogg": [
 		{
-			"text": "Don't forget, Wednesday is pizza day! So head on down to the cafeteria and grab yourself a hot slice!",
+			"text": "Не забудьте, середа — день піци! Тож прямуйте до кафетерію і візьміть собі гарячий шматочок!",
 			"delay": 2.6
 		},
 		{
-			"text": "(The SCP Foundation holds no liability for any injuries or illnesses sustained or contracted through the attendance of pizza day.)",
+			"text": "(Фонд SCP не несе відповідальності за будь-які травми чи захворювання, отримані під час відвідування дня піци.)",
 			"delay": 11.7
 		}
 	],
 	"SFX\\Radio\\SCPRadio8.ogg": [
 		{
-			"text": "When dining in the facility cafeteria, always remember to check your rations for the deadly seven. Strychnine, Arsenic Trioxide, Nitrobenzene, Mercury, Epichlorohydrin, Acetone Thiosemicarbazone, and spiders. Stay healthy! Stay vigilant.",
+			"text": "Під час обіду в кафетерії закладу завжди пам'ятайте, перевіряйте свої раціони на наявність «смертельної сімки»: стрихніну, триоксиду миш'яку, нітробензолу, ртуті, епіхлоргідрину, ацетону, тіосемікарбазону та павуків. Будьте здорові! Будьте пильні.",
 			"delay": 3.2
 		}
 	],
 	/* ENDINGS - GATE A */
 	"SFX\\Ending\\GateA\\Franklin.ogg": [
 		{
-			"text": "SCP-106 has broken out of the facility at Gate A! Fire the HID Turret Immediately! Do not let it across the bridge!",
+			"text": "SCP-106 втік з об'єкта через ворота А! Негайно відкрийте вогонь з турелі ВІР! Не дайте йому перейти міст!",
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateA\\STOPRIGHTTHERE.ogg": [
 		{
-			"text": "Stop right there!",
+			"text": "Стій на місці!",
 			"delay": 0.25,
 			"color": "mtf"
 		},
 		{
-			"text": "Class-D has been found.",
+			"text": "Клас D знайдено.",
 			"delay": 3.75,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\GateA\\CI.ogg": [
 		{
-			"text": "You know too much to let them get you. You're coming with us.",
+			"text": "Ти знаєш занадто багато, щоб дозволити їм тебе схопити. Ти йдеш з нами.",
 			"color": "chaos"
 		}
 	],
 	"SFX\\Ending\\Ending0.ogg": [
 		{
-			"text": "Sir, we're having a major problem here!",
+			"text": "Сер, в нас тут серйозна проблема!",
 			"delay": 0.8,
 			"color": "mtf"
 		},
 		{
-			"text": "Please elaborate. Has the target been captured yet?",
+			"text": "Будь ласка, поясніть детальніше. Ціль вже захоплена?",
 			"delay": 4.5,
 			"color": "mtf"
 		},
 		{
-			"text": "I'm not sure what's happening here. We entered the old service tunnel and it sorta… closed up on us. Now we're trapped inside. Sanders is dead. Target's been lost!",
+			"text": "Я не впевнений, що тут відбувається. Ми увійшли в старий службовий тунель, і він ніби... закрився з нами. Тепер ми застрягли всередині. Сандерс загинув. Ціль втрачена!",
 			"delay": 9.4,
 			"length": 12.0,
 			"color": "mtf"
 		},
 		{
-			"text": "Are you saying that the tunnel collapsed on you?",
+			"text": "Ви маєте на увазі, що тунель обвалився на вас?",
 			"delay": 21.9,
 			"color": "mtf"
 		},
 		{
-			"text": "No! It didn't collapse. It seemed like an anomalous event. Come see for yourself, and send someone to get us out of here!",
+			"text": "Ні! Він не обвалився. Це було схоже на аномальне явище. Приїжджайте і подивіться самі, і надішліть когось, щоб нас звідси витягнути!",
 			"delay": 25.5,
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\Ending1.ogg": [
 		{
-			"text": "Testing log [REDACTED]. Subject [REDACTED]-[REDACTED].",
+			"text": "Журнал випробувань [ВІДРЕДАГОВАНО]. Суб'єкт [ВІДРЕДАГОВАНО]-[ВІДРЕДАГОВАНО].",
 			"delay": 2.1
 		},
 		{
-			"text": "Subject demonstrates extraordinary luck and complete mastery of even the most fatal of circumstances and an uncanny ability to predict even the most unpredictable of hazards, almost as if it has performed these impossible tasks several times before.",
+			"text": "Суб'єкт демонструє надзвичайну вдачу та повне володіння навіть у найнебезпечніших обставинах, а також надзвичайну здатність передбачати навіть найнепередбачуваніші небезпеки, майже так, ніби він вже виконував ці неможливі завдання раніше.",
 			"delay": 7.8,
 			"length": 16.0
 		},
 		{
-			"text": "Further testing is required to determine whether the subject should receive SCP classification.",
+			"text": "Необхідно провести додаткові тестування, щоб визначити, чи слід надати суб'єкту класифікацію SCP.",
 			"delay": 24.4
 		}
 	],
 	/* ENDINGS - GATE B */
 	"SFX\\Ending\\GateB\\682Battle.ogg": [
 		{
-			"text": "SCP-682 just broke out at Gate B. I want all avaliable helicopters and MTF units at Gate B now!",
+			"text": "SCP-682 щойно втік крізь ворота B. Потрібні всі доступні вертольоти та підрозділи МОГ біля воріт B, негайно!",
 			"delay": 5.65,
 			"color": "announcement"
 		},
 		{
-			"text": "I repeat, SCP-682 is out of the facility! All avaliable helicopters and MTF units to Gate B now!",
+			"text": "Повторюю, SCP-682 втік з об'єкта! Всі доступні вертольоти та підрозділи МОГ до воріт B, негайно!",
 			"delay": 13.8,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateB\\DetonatingAlphaWarheads.ogg": [
 		{
-			"text": "We're detonating the Alpha warheads in T-minus 90 seconds! All personnel are advised to board the nearest helicopter or enter the nearest blast shelter immediately.",
+			"text": "Ми підриваємо Альфа боєголовки через 90 секунд! Всім співробітникам рекомендується негайно сісти в найближчий вертоліт або увійти в найближче протибомбове укриття.",
 			"delay": 0.42,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateB\\AlphaWarheadsFail.ogg": [
 		{
-			"text": "We were unable to detonate the warheads for unknown reasons. All helicopters and MTF units go back to Gate B immediately. Capturing SCP-682 is now our number one priority.",
+			"text": "З невідомих причин нам не вдалося підірвати боєголовки. Всім вертольотам та підрозділам МОГ негайно повернутися до воріт B. Захоплення SCP-682 тепер є нашим головним пріоритетом.",
 			"delay": 0.38,
 			"color": "announcement"
 		}
 	],
 	"SFX\\Ending\\GateB\\THEREHEIS.ogg": [
 		{
-			"text": "There he is! Start shooting!",
+			"text": "Ось він! Стріляйте!",
 			"color": "mtf"
 		}
 	],
 	"SFX\\Ending\\Ending2.ogg": [
 		{
-			"text": "Sir, we found a dead Class-D on the walkway outside Gate B. He's got multiple gun shot wounds in his chest. I'd assume he was shot when we were fighting SCP-682.",
+			"text": "Сер, ми знайшли мертвий клас D на проході біля воріт B. У нього кілька вогнепальних поранень у грудях. Я припускаю, що його застрелили, коли ми боролися з SCP-682.",
 			"delay": 0.5,
 			"length": 12.0,
 			"color": "mtf"
 		},
 		{
-			"text": "I'd like to know how the hell did a Class-D get past the gate? Deliver me the security tapes from all the cameras near the gate and find out who was stationed there, before and during 682's escape attempt.",
+			"text": "Я хотів би знати, як, чорт забирай, представник класу D пройшов через ворота? Принесіть мені записи з камер спостереження біля воріт і з'ясуйте, хто там чергував до і під час спроби втечі 682.",
 			"delay": 11.5,
 			"length": 16.0,
 			"color": "mtf"
 		},
 		{
-			"text": "Roger that sir.",
+			"text": "Зрозуміло, сер.",
 			"delay": 26.0,
 			"color": "mtf"
 		}
