@@ -3795,7 +3795,7 @@
 			"color": "mtf"
 		},
 		{
-			"text": "Я хотів би знати, як, чорт забирай, представник класу D пройшов через ворота? Принесіть мені записи з камер спостереження біля воріт і з'ясуйте, хто там чергував до і під час спроби втечі 682.",
+			"text": "Я хотів би знати, як, чорт забирай, представник класу D пройшов через ворота? Принесіть мені записи з камер спостереження біля воріт і з'ясуйте, хто там чергував до і під час спроби втечі 682-го.",
 			"delay": 11.5,
 			"length": 16.0,
 			"color": "mtf"
@@ -3808,21 +3808,21 @@
 	],
 	"SFX\\Ending\\Ending3.ogg": [
 		{
-			"text": "This is CH-1 to OH-6, have you located the target, over?",
+			"text": "Це CH-1 до OH-6, ви знайшли ціль, прийом?",
 			"color": "mtf"
 		},
 		{
-			"text": "OH-6 to CH-1, no sign of the target. I think we should send an MTF-..",
+			"text": "OH-6 до CH-1, ціль не виявлено. Гадаю, нам слід відправити МОГ-..",
 			"delay": 6.05,
 			"color": "mtf"
 		},
 		{
-			"text": "*ROARS*",
+			"text": "*РЕВІТ*",
 			"delay": 10.95,
 			"color": "682"
 		},
 		{
-			"text": "CH-1 to OH-6, do you copy?",
+			"text": "CH-1 до OH-6, ви чуєте?",
 			"delay": 14.95,
 			"color": "mtf"
 		}
@@ -3830,79 +3830,79 @@
 	/* AMBIENTS */
 	"SFX\\Ambient\\Forest\\Ambient6.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\035Chamber\\Whispers0.ogg": [
 		{
-			"text": "*WHISPERS*",
+			"text": "*ШЕПІТ*",
 			"color": "066"
 		}
 	],
 	"SFX\\Room\\035Chamber\\Whispers1.ogg": [
 		{
-			"text": "*WHISPERS*",
+			"text": "*ШЕПІТ*",
 			"color": "066"
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion2.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion11.ogg": [
 		{
-			"text": "*LAUGH*",
+			"text": "*СМІХ*",
 			"color": "106",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion18.ogg": [
 		{
-			"text": "*INCOHERENT SOUNDS*"
+			"text": "*НЕЗВ'ЯЗНІ ЗВУКИ*"
 		},
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"delay": 3.5
 		},
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"delay": 7.5
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion19.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"length": 2.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion20.ogg": [
 		{
-			"text": "*CHOKING*",
+			"text": "*ЗАДИХАЄТЬСЯ*",
 			"delay": 2.0
 		},
 		{
-			"text": "Do not be afraid, I am the cure.",
+			"text": "Не бійся, я – ліки.",
 			"delay": 9.0,
 			"color": "049"
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion23.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"length": 3.0
 		}
 	],
 	"SFX\\Room\\Intro\\Commotion\\Commotion24.ogg": [
 		{
-			"text": "*SCREAM*",
+			"text": "*КРИК*",
 			"delay": 2.1,
 			"length": 2.0
 		},
 		{
-			"text": "*LAUGH*",
+			"text": "*СМІХ*",
 			"delay": 3.3,
 			"color": "106"
 		}
